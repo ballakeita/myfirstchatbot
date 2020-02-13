@@ -10,8 +10,8 @@ pairs = [
         ["My name is Chatty and I'm a chatbot ?",]
     ],
     [
-        r"how are you ?",
-        ["I'm doing good\nHow about You ?",]
+        r"amek thetsilidhe akhayi ?",
+        ["aklaghe ! na3ya akhayi !\nI kechi ?",]
     ],
     [
         r"sorry (.*)",
